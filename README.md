@@ -54,6 +54,7 @@ The goal of this project is to help telecom companies improve customer retention
 ---
 
 ## Dashboard Preview
+<img width="907" height="505" alt="Dashboard" src="https://github.com/user-attachments/assets/c3fcb023-7e78-4914-bef4-5bcff083e71d" />
 
 
 ---
