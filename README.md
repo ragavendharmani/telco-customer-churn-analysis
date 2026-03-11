@@ -1,8 +1,8 @@
-# Telco Customer Churn Analysis and Prediction
+# Telco Customer Churn Analysis & Prediction
 
 This project analyzes telecom customer churn and builds a predictive model to identify customers at risk of leaving the service.
 
-The goal of this project is to help telecom companies improve customer retention using data analysis, business intelligence, and machine learning.
+The goal of this project is to help telecom companies improve customer retention using data analysis, machine learning, and interactive dashboards.
 
 ---
 
@@ -12,7 +12,7 @@ The goal of this project is to help telecom companies improve customer retention
 • Python – Data analysis and machine learning  
 • Pandas & NumPy – Data manipulation  
 • Scikit-Learn – Logistic Regression model  
-• Power BI – Interactive dashboard and visualization  
+• Power BI – Interactive dashboard development  
 
 ---
 
@@ -20,10 +20,10 @@ The goal of this project is to help telecom companies improve customer retention
 
 1. Data Cleaning using Excel  
 2. Exploratory Data Analysis using Python  
-3. Feature Selection and Model Training  
-4. Churn Probability Prediction using Logistic Regression  
+3. Feature Engineering and Data Preparation  
+4. Machine Learning Model Development  
 5. Customer Risk Segmentation  
-6. Dashboard Development in Power BI  
+6. Interactive Dashboard Development in Power BI  
 
 ---
 
@@ -39,23 +39,22 @@ The goal of this project is to help telecom companies improve customer retention
 
 ## Key Insights
 
-• Customers with month-to-month contracts have the highest churn risk  
+• Customers with month-to-month contracts show the highest churn risk  
 • Customers with tenure less than 12 months are more likely to churn  
-• Higher monthly charges increase churn probability  
+• Higher monthly charges significantly increase churn probability  
 
 ---
 
 ## Business Recommendations
 
-• Offer loyalty discounts for new customers  
-• Encourage long-term contracts instead of month-to-month plans  
-• Target high-risk customers with retention campaigns  
+• Encourage long-term contracts to reduce churn  
+• Provide targeted retention offers for high-risk customers  
+• Improve early engagement with new customers  
 
 ---
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
 
 ---
 
