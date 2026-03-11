@@ -55,6 +55,7 @@ The goal of this project is to help telecom companies improve customer retention
 
 ## Dashboard Preview
 <img width="907" height="505" alt="Dashboard" src="https://github.com/user-attachments/assets/c3fcb023-7e78-4914-bef4-5bcff083e71d" />
+<img width="910" height="495" alt="Churn Analysis" src="https://github.com/user-attachments/assets/fbc5bb27-4c71-4454-a0c5-bfa60988a0bc" /><img width="886" height="508" alt="Churn Prediction" src="https://github.com/user-attachments/assets/0a2c8319-b88b-4180-9dd7-c89a69d9c3dd" />
 <img width="875" height="494" alt="Executive Summary" src="https://github.com/user-attachments/assets/9981fc3c-1649-4c23-991f-a8a3dbef5296" />
 
 
